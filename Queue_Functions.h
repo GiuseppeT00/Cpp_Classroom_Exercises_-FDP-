@@ -1,7 +1,13 @@
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Some interesting template functions for Queues Data Structures
+// that you can use to test a queue, and make some programs
+
+
 #ifndef FUNCTION
 #define FUNCTION
 
-#include "LQueue.h"
+#include "Linked_Queue.h"
+#include "Array_Queue.h"
 
 class Item {
 private:

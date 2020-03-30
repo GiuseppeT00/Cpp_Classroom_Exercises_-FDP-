@@ -1,7 +1,5 @@
-// From the software distribution accompanying the textbook
-// "A Practical Introduction to Data Structures and Algorithm Analysis,
-// Third Edition (C++)" by Clifford A. Shaffer.
-// Source code Copyright (C) 2007-2011 by Clifford A. Shaffer.
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Stack Data Structure, a template abstract class to implement other stacks
 
 #ifndef STACK_H
 #define STACK_H

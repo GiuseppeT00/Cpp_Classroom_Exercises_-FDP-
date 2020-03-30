@@ -1,7 +1,5 @@
-// From the software distribution accompanying the textbook
-// "A Practical Introduction to Data Structures and Algorithm Analysis,
-// Third Edition (C++)" by Clifford A. Shaffer.
-// Source code Copyright (C) 2007-2011 by Clifford A. Shaffer.
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Linked List Data Structure, a template class derived by class List
 
 // This is the file to include in your code if you want access to the
 // complete LList template class
@@ -15,8 +13,8 @@ using namespace std;
 inline void Assert(bool val, string s);
 
 // First, get the declaration for the base list class
-#include "list.h"
-#include "link.h"
+#include "Link_Class.h"
+#include "List_BaseClass.h
 
 // This is the declaration for LList. 
 template <typename E> class LList: public List<E> {

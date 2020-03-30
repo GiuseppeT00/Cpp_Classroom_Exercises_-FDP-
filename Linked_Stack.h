@@ -1,7 +1,5 @@
-// From the software distribution accompanying the textbook
-// "A Practical Introduction to Data Structures and Algorithm Analysis,
-// Third Edition (C++)" by Clifford A. Shaffer.
-// Source code Copyright (C) 2007-2011 by Clifford A. Shaffer.
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Linked Stack Data Structure, a template class derived from Stack
 
 // This is the file to include in your code if you want access to the
 // complete LStack template class
@@ -15,10 +13,10 @@ using namespace std;
 inline void Assert(bool val, string s);
 
 // Include the link class
-#include "link.h"
+#include "Link_Class.h"
 
 // First, get the declaration for the base stack class
-#include "stack.h"
+#include "Stack_BaseClass.h"
 
 // This is the declaration for LStack.
 // Linked stack implementation

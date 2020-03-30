@@ -1,13 +1,11 @@
-// From the software distribution accompanying the textbook
-// "A Practical Introduction to Data Structures and Algorithm Analysis,
-// Third Edition (C++)" by Clifford A. Shaffer.
-// Source code Copyright (C) 2007-2011 by Clifford A. Shaffer.
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Array Queue Data Structure, a template class derived from Queue
 
 // This is the file to include in your code if you want access to the
 // complete AQueue template class
 
 // First, get the declaration for the base stack class
-#include "queue.h"
+#include "Queue_BaseClass.h
 
 // This is the declaration for AStack.
 // Array-based queue implementation

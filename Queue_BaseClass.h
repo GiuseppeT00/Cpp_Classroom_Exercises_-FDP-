@@ -1,3 +1,6 @@
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Queue Data Structure, a template abstract class to implement other Queues
+
 #ifndef QUEUE_H
 #define QUEUE_H
 

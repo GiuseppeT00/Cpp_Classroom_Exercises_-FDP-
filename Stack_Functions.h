@@ -1,8 +1,14 @@
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Some interesting template functions for Stacks Data Structures
+// that you can use to test a stack, and make some programs
+
+
+
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
 
-#include "LStack.h"
-//#include "AStack.h"
+#include "Linked_Stack.h"
+#include "Array_Stack.h"
 
 inline void Assert(bool exp, string s) {
 	if (!exp)

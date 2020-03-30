@@ -1,7 +1,5 @@
-// From the software distribution accompanying the textbook
-// "A Practical Introduction to Data Structures and Algorithm Analysis,
-// Third Edition (C++)" by Clifford A. Shaffer.
-// Source code Copyright (C) 2007-2011 by Clifford A. Shaffer.
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Array Stack Data Structure, a template class derived from Stack
 
 // This is the file to include in your code if you want access to the
 // complete AStack template class
@@ -14,7 +12,7 @@
 using namespace std;
 
 // First, get the declaration for the base stack class
-#include "stack.h"
+#include "Stack_BaseClass.h"
 
 inline void Assert(bool val, string s);
 
